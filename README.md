@@ -81,7 +81,7 @@ git clone https://github.com/PanicAthe/StudyMatching.git
 - Oracle DB에 테이블을 생성하고 필요한 데이터베이스 연결 설정을 구성합니다.
 
 3. 애플리케이션 실행:
-- `Main.java` 파일을 실행하여 애플리케이션을 시작합니다.
+- `StudyMatcherApplication` 파일을 실행하여 애플리케이션을 시작합니다.
 
 ## 📌 향후 확장성
 - Spring Framework를 통한 웹 애플리케이션 전환
